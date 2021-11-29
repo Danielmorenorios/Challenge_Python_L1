@@ -8,7 +8,7 @@
 `python -m venv venv`
 2. Instalar requirements.txt
 `pip install -r requirements.txt`
-3.- Ejecutar script:
+3. Ejecutar script:
 `python main.py`
 
 ### Ejecutar tests
